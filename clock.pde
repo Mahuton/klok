@@ -39,7 +39,7 @@ void showHour(){
   H3.move(360 / 12 * hour());
 }
 
-// ==========Objects
+// ========== circle Objects
 class Circle{
 
   //Data
